@@ -1,8 +1,8 @@
 # Project Description
 
 Check My Beat is a collaboration project with the Lebanese Red Cross that helps medical operators in providing fast,
-reliable and automated electrocardiograph with it's associated diagnosis.
-The project aims at making faster real-time decisions for patients in critical conditions and provide defibrillation. 
+reliable and automated electrocardiograph with its associated diagnosis.
+The project aims at making faster real-time decisions for patients in critical heart conditions and provide defibrillation. 
 
 ## Project Demo
 
